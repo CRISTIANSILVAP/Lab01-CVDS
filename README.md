@@ -1,5 +1,4 @@
-#Prueba commit al mismo tiempo CR
-#Prueba commit al mismo tiempo JM - hola
-
-
-commit mal 2 jaja
+# laboratorio 1
+# integrantes 
+    Cristian silva
+    Juan miguel rojas Chaparro 
