@@ -1,16 +1,12 @@
-
 # laboratorio 1
 # integrantes 
     Cristian silva
     Juan miguel rojas Chaparro 
 
-#Prueba commit al mismo tiempo CR
-#Prueba commit al mismo tiempo JM - hola
+# Respuestas
+PARTE II (Trabajo en parejas) 
 
-Hola PRUEBA NUMERO 2
-
-
-commit mal 2 jaja
-
-prueba rama 
-
+1. Se escogen los roles para trabajar en equipo, una persona debe escoger ser "Owner" o Propietario del repositorio y la otra "Collaborator" o Colaborador en el repositorio. 
+a. Cristian silva será el owner y juan Miguel rojas será el collaborator.
+2. El owner agrega al colaborador con permisos de escritura en el repositorio que creó en la parte 1 
+![Logo de mi proyecto](imagenes/Captura%20de%20pantalla%202025-01-28%20224532.png)
