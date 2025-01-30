@@ -14,14 +14,17 @@ Como se recomienda agregar el archive readme lo agregamos con el comando touch
 ![Logo de mi proyecto](imagenes/Imagen3.png)
 
 3) como se usan estos comandos git add y git commit -m “mensaje”?
+
 git add: Este comando sirve para agregar archivos o cambios especificos, pero es una preparación para el commit mas no lo realiza.
-  Ejemplo de uso:
+  # Ejemplo de uso:
       git add archivo.txt(Esto agrega el archivo archivo.txt al área de preparación.)
       Para agregar todo:
       git add .  (Esto agregará todos los cambios de los archivos que han sido modificados o creados.)
 git commit: Este comando es el que realiza los cambios que se hallan añadido al area de preparacion y el mensaje se puede usar para describir lo que se haya hecho en el cambio.
-  Ejemplo de uso: 
-git commit -m "Añadir nueva funcionalidad al archivo de inicio" (La idea es que el mensaje sea directo y consciso especificando el cambio realizado).
+
+  # Ejemplo de uso: 
+
+	git commit -m "Añadir nueva funcionalidad al archivo de inicio" (La idea es que el mensaje sea directo y consciso especificando el cambio realizado).
 
 
 6 y 7)
@@ -33,6 +36,8 @@ git commit -m "Añadir nueva funcionalidad al archivo de inicio" (La idea es que
 
 8)
 ![Logo de mi proyecto](imagenes/Imagen7.png)
+
+El punto del correo no lo hice porque mi cuenta de github está creada con el correo institucional
 
 
 
