@@ -7,7 +7,7 @@
 PARTE I
 1 y 2)
 Procedemos a crear el repositorio de manera local en la terminal de git bash
-![Logo de mi proyecto](imagenes/imagen1.png)
+![Logo de mi proyecto](imagenes/Imagen1.png)
 
 
 
