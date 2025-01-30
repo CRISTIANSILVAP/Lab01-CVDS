@@ -4,6 +4,13 @@
     Juan miguel rojas Chaparro 
 
 # Respuestas
+PARTE I
+1 y 2)
+Procedemos a crear el repositorio de manera local en la terminal de git bash
+![Logo de mi proyecto](imagenes/imagen1.png)
+
+
+
 PARTE II (Trabajo en parejas) 
 
 1. Se escogen los roles para trabajar en equipo, una persona debe escoger ser "Owner" o Propietario del repositorio y la otra "Collaborator" o Colaborador en el repositorio. 
