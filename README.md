@@ -12,6 +12,7 @@ Procedemos a crear el repositorio de manera local en la terminal de git bash
 Como se recomienda agregar el archive readme lo agregamos con el comando touch 
 ![Logo de mi proyecto](imagenes/Imagen2.png)
 ![Logo de mi proyecto](imagenes/Imagen3.png)
+
 3) como se usan estos comandos git add y git commit -m “mensaje”?
 git add: Este comando sirve para agregar archivos o cambios especificos, pero es una preparación para el commit mas no lo realiza.
   Ejemplo de uso:
@@ -24,9 +25,12 @@ git commit -m "Añadir nueva funcionalidad al archivo de inicio" (La idea es que
 
 
 6 y 7)
+
 ![Logo de mi proyecto](imagenes/Imagen4.png)
 ![Logo de mi proyecto](imagenes/Imagen5.png)
 ![Logo de mi proyecto](imagenes/Imagen6.png)
+
+
 8)
 ![Logo de mi proyecto](imagenes/Imagen7.png)
 
